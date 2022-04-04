@@ -358,6 +358,8 @@
 "Assets/Scripts/FourButtonWin.cs"
 "Assets/Scripts/LockRotation.cs"
 "Assets/Scripts/PlayerMovement.cs"
+"Assets/Scripts/PlayMusicOverMultipleScenes.cs"
+"Assets/Scripts/PlayWhenCollision.cs"
 "Assets/Scripts/ReloadLevel.cs"
 "Assets/Scripts/StartButton.cs"
 "Assets/Scripts/ThreeButtonWin.cs"

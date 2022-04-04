@@ -62,8 +62,10 @@
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\LockRotation.cs" />
     <Compile Include="Assets\Scripts\ReloadLevel.cs" />
-    <Compile Include="Assets\Scripts\FourButtonWin.cs" />
     <Compile Include="Assets\Scripts\StartButton.cs" />
+    <Compile Include="Assets\Scripts\PlayWhenCollision.cs" />
+    <Compile Include="Assets\Scripts\FourButtonWin.cs" />
+    <Compile Include="Assets\Scripts\PlayMusicOverMultipleScenes.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

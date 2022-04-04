@@ -313,6 +313,7 @@
 "Assets/Scripts/LockRotation.cs"
 "Assets/Scripts/PlayerMovement.cs"
 "Assets/Scripts/ReloadLevel.cs"
+"Assets/Scripts/StartButton.cs"
 "Assets/Scripts/ThreeButtonWin.cs"
 "Assets/Scripts/WinCondition.cs"
 -langversion:9.0
