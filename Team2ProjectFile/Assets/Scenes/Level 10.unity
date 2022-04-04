@@ -916,7 +916,7 @@ MonoBehaviour:
   button2: {fileID: 676556019}
   button3: {fileID: 698468765}
   button4: {fileID: 709921637}
-  LevelName: Level 1
+  LevelName: Main Menu
 --- !u!114 &376903589
 MonoBehaviour:
   m_ObjectHideFlags: 0
