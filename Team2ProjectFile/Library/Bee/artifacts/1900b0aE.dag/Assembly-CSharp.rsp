@@ -356,6 +356,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/ButtonTriggered.cs"
 "Assets/Scripts/FourButtonWin.cs"
+"Assets/Scripts/IsMusicPlaying.cs"
 "Assets/Scripts/LockRotation.cs"
 "Assets/Scripts/PlayerMovement.cs"
 "Assets/Scripts/PlayMusicOverMultipleScenes.cs"
@@ -363,6 +364,7 @@
 "Assets/Scripts/ReloadLevel.cs"
 "Assets/Scripts/StartButton.cs"
 "Assets/Scripts/ThreeButtonWin.cs"
+"Assets/Scripts/UITimer.cs"
 "Assets/Scripts/WinCondition.cs"
 -langversion:9.0
 
